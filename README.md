@@ -1,8 +1,7 @@
-# ml_lab_finalproject
-## University of San Francisco's Machine Learning Laboratory MSDS 699 Spring 2021
+# University of San Francisco's Machine Learning Laboratory MSDS 699 Spring 2021: Final Project -- Modeling Earthquake Damage 
 
 ### Project Goal: 
-using a historical data about earthquake impacts to predict the ordinal variable damage_grade, which represents a level of damage to the building that was hit by the earthquake. 
+Using a historical data about earthquake impacts to predict the ordinal variable damage_grade, which represents a level of damage to the building that was hit by the earthquake. 
 There are 3 grades of the damage:
 
 1 represents low damage
