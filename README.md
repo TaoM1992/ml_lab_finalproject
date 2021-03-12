@@ -14,3 +14,7 @@ This survey is one of the largest post-disaster datasets ever collected, contain
 
 ### Data Description:
 There are 39 columns and 260601 observations in this data. The target variable y is earthquake damage grades. 
+
+### Project Content:
+colab link: https://colab.research.google.com/drive/1IKlwBHXV5YOIeUa5qwkzewZluY97vV6X#scrollTo=Mw3PsaKzGFv3
+
